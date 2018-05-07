@@ -36,7 +36,7 @@ class TreeNode(object):
 
     return False
 
-  @staticmethod
+  
   def check(node):
     if not node:
       return
